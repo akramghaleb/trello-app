@@ -4,6 +4,10 @@
 
 This project built during attending the vue.js Forge Event on 13/07/2022 and 14/07/2022
 
+<img src="scs/1.PNG">
+<img src="scs/2.PNG">
+<img src="scs/3.PNG">
+
 ### Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
