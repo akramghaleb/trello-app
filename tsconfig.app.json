@@ -1,0 +1,15 @@
+{
+  "extends": "@vue/tsconfig/tsconfig.web.json",
+  "files": ["graphql.d.ts"],
+  "include": ["env.d.ts", "src/**/*", "src/**/*.vue", "src/**/*.gql"],
+  "exclude": ["src/**/__tests__/*"],
+  "compilerOptions": {
+    "composite": true,
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"]
+    },
+    "allowJs": true // 👈 add this line
+  }
+}
