@@ -4,7 +4,8 @@ import {
     CURRENT_USER_QUERY,
     USER_SIGN_UP_MUTATION,
 } from "@/graphql/queries/auth";
-import apolloClient from "@/graphql/apolloClient";
+
+import { apolloClient } from "@/graphql/ApolloClient";
 import type { User } from "@/types";
 
 const localStorageKey = "id_token";

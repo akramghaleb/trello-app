@@ -4,9 +4,13 @@
 
 This project built during attending the vue.js Forge Event on 13/07/2022 and 14/07/2022
 
+<img src="scs/5.PNG">
+<img src="scs/7.PNG">
 <img src="scs/1.PNG">
 <img src="scs/2.PNG">
 <img src="scs/3.PNG">
+<img src="scs/6.PNG">
+<img src="scs/8.PNG">
 
 ### Recommended IDE Setup
 
